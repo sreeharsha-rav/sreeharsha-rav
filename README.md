@@ -5,8 +5,8 @@ I'm an aspiring developer transitioning from electronics to software. Currently 
 ![Sreeharsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreeharsha98&theme=transparent&show_icons=true)
 
 ### 💻 Technical Skills
-- Proficient: Python, MatLab, C, Unix, Linux, HTML5, Javascript, SQL
-- Exposure: git, Firebase, MongoDB, AWS, Azure, Docker, Kubernetes
+- **Proficient**: Python, MatLab, C, Unix, Linux, HTML5, Javascript, SQL
+- **Exposure**: git, Firebase, MongoDB, AWS, Azure, Docker, Kubernetes
 
 
 
