@@ -1,9 +1,9 @@
-### Welcome to my GitHub profile! 😁
+## Welcome to my GitHub profile! 😁
 I'm an aspiring developer transitioning from electronics to software. Currently pursuing my master's degree in computer engineering at Arizona State University and I'm excited to learn, build and contribute towards innovative software solutions. Check out my repositories to see some of my latest projects.
 
 You can reach me out via email, linkedin and I'm always looking for opportunites to learn from and contribute to impactful projects.
 
-## GitHub Summary
+### GitHub Summary
 ![Sreeharsha's Profile Stats](https://github-readme-stats.vercel.app/api?username=Sreeharsha98&count_private=true&show_icons=true&theme=synthwave&hide_title=true)
 
 ### 💻 Programming Languages
