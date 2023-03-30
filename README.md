@@ -1,16 +1,15 @@
-### Hi there 👋
-I'm a computer engineering graduate student who's passionate about using technology to solve problems. My experience in Python programming and machine learning has allowed me to develop a detail-oriented approach to problem solving. I'm a collaborative team player with leadership experience, and I'm always looking for opportunities to learn from and contribute to impactful projects. With a focus on keeping my fundamentals solid, I'm well-equipped to take on any challenge that comes my way.
+### Welcome to my GitHub profile! 😁
+I'm an aspiring developer transitioning from electronics to software. Currently pursuing my master's degree in computer engineering at Arizona State University and I'm excited to learn, build and contribute towards innovative software solutions. Check out my repositories to see some of my latest projects.
+
+You can reach me out via email, linkedin and I'm always looking for opportunites to learn from and contribute to impactful projects.
 
 ## GitHub Summary
 ![Sreeharsha's Profile Stats](https://github-readme-stats.vercel.app/api?username=Sreeharsha98&count_private=true&show_icons=true&theme=synthwave&hide_title=true)
 
-## My Tech Stack
-### Languages
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-%232d203c.svg?style=flat&logo=python&logoColor=%2314354C)
 ![C](https://img.shields.io/badge/C-%232d203c.svg?style=flat&logo=c&logoColor=%2300599C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%232d203c.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C++-%232d203c.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C)
-![Java](https://img.shields.io/badge/Java-%232d203c.svg?style=flat&logo=java&logoColor=%23ED8B00)
 
 
 <!--
