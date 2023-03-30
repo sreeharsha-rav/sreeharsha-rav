@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-## About
-I enjoy building software and systems that are usable, performant and extensible. Currently, I'm pursuing a Master of Science in Computer Science at the University of Southern California. Prior to this, I worked as a full-stack web developer at Deskera. Before Deskera, I was an undergrad at NITK Surathkal.
+I'm a computer engineering graduate student who's passionate about using technology to solve problems. My experience in Python programming and machine learning has allowed me to develop a detail-oriented approach to problem solving. I'm a collaborative team player with leadership experience, and I'm always looking for opportunities to learn from and contribute to impactful projects. With a focus on keeping my fundamentals solid, I'm well-equipped to take on any challenge that comes my way.
 
 ## GitHub Summary
 ![Sreeharsha's Profile Stats](https://github-readme-stats.vercel.app/api?username=Sreeharsha98&count_private=true&show_icons=true&theme=synthwave&hide_title=true)
@@ -14,10 +12,6 @@ I enjoy building software and systems that are usable, performant and extensible
 ![C++](https://img.shields.io/badge/C++-%232d203c.svg?style=flat&logo=c%2B%2B&logoColor=%2300599C)
 ![Java](https://img.shields.io/badge/Java-%232d203c.svg?style=flat&logo=java&logoColor=%23ED8B00)
 
-### CI
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232d203c.svg?style=flat&logo=githubactions&logoColor=%232671E5)
-![TravisCI](https://img.shields.io/badge/Travis_CI-%232d203c.svg?style=flat&logo=travis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232d203c.svg?style=flat&logo=docker&logoColor=%230db7ed)
 
 <!--
 **Sreeharsha98/Sreeharsha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
