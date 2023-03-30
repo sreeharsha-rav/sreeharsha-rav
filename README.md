@@ -4,12 +4,13 @@ I'm an aspiring developer transitioning from electronics to software. Currently 
 You can reach me out via email, linkedin and I'm always looking for opportunites to learn from and contribute to impactful projects.
 
 ### GitHub Summary
-![Sreeharsha's Profile Stats](https://github-readme-stats.vercel.app/api?username=Sreeharsha98&count_private=true&show_icons=true&theme=synthwave&hide_title=true)
+![Sreeharsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreeharsha98&theme=transparent&show_icons=true)
 
-### 💻 Programming Languages
+### 💻 Technical Skills
 ![Python](https://img.shields.io/badge/Python-%232d203c.svg?style=flat&logo=python&logoColor=%2314354C)
 ![C](https://img.shields.io/badge/C-%232d203c.svg?style=flat&logo=c&logoColor=%2300599C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%232d203c.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
 
 
 <!--
