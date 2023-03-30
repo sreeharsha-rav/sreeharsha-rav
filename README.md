@@ -1,15 +1,12 @@
 ## Welcome to my GitHub profile! 😁
 I'm an aspiring developer transitioning from electronics to software. Currently pursuing my master's degree in computer engineering at Arizona State University and I'm excited to learn, build and contribute towards innovative software solutions. Check out my repositories to see some of my latest projects.
 
-You can reach me out via email, linkedin and I'm always looking for opportunites to learn from and contribute to impactful projects.
-
 ### GitHub Summary
 ![Sreeharsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sreeharsha98&theme=transparent&show_icons=true)
 
 ### 💻 Technical Skills
-![Python](https://img.shields.io/badge/Python-%232d203c.svg?style=flat&logo=python&logoColor=%2314354C)
-![C](https://img.shields.io/badge/C-%232d203c.svg?style=flat&logo=c&logoColor=%2300599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-%232d203c.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+- Proficient: Python, MatLab, C, Unix, Linux, HTML5, Javascript, SQL
+- Exposure: git, Firebase, MongoDB, AWS, Azure, Docker, Kubernetes
 
 
 
