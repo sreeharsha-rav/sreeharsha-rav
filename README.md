@@ -6,7 +6,7 @@ I am currently working on building up my repositories.
 <!-- Check out my repositories to see some of my latest projects. -->
 
 ### GitHub Summary
-![Sreeharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreeharsha98&show_icons=true&theme=transparent)
+![Sreeharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeharsha-rav&show_icons=true&theme=transparent)
 
 ### 💻 Technical Skills
 - **Proficient**: Python, MatLab, C, Unix, Linux, HTML5, Javascript, SQL
