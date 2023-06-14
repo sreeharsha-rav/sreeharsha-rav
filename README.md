@@ -9,11 +9,13 @@ I am currently working on building up my repositories.
 ![Sreeharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeharsha-rav&show_icons=true&theme=transparent)
 
 ### 💻 Technical Skills
-- **Proficient**: Python, MatLab, C, Unix, Linux, HTML5, Javascript, SQL
-- **Exposure**: git, Firebase, MongoDB, AWS, Azure, Docker, Kubernetes
+- **Programming Languages**: Python, MATLAB, C, HTML, CSS, JavaScript, SQL
+- **Libraries and Frameworks**: Python - numpy, pandas, matplotlib, seaborn, sklearn, tkinter, pygame; JavaScript - Node.js, Mocha, React; CSS - Bootstrap
+- **Tools and Databases**: git, AWS, Azure, Docker, Kubernetes, PostgreSQL, MongoDB
 
-
-
+### Current Status
+- 🔭 I’m currently working on Full-Stack Applications
+- 🌱 I’m currently learning Full-Stack Development
 <!--
 **Sreeharsha98/Sreeharsha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
