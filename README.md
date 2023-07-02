@@ -1,8 +1,6 @@
 ## Welcome to my GitHub profile! 😁
 I'm an aspiring developer transitioning from electronics to software. Currently pursuing my master's degree in computer engineering at Arizona State University and I'm excited to learn, build and contribute towards innovative software solutions. 
 
-I am currently working on building up my repositories.
-
 <!-- Check out my repositories to see some of my latest projects. -->
 
 ### GitHub Summary
