@@ -12,7 +12,7 @@ I'm an aspiring developer transitioning from electronics to software. Currently 
 - **Tools and Databases**: git, AWS, Azure, Docker, Kubernetes, PostgreSQL, MongoDB
 
 ### Current Status
-- 🔭 I’m currently working on Full-Stack Applications
+- 🔭 I’m currently working on AWS cloud projects
 - 🌱 I’m currently learning Full-Stack Development
 <!--
 **Sreeharsha98/Sreeharsha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
