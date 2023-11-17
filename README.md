@@ -8,8 +8,8 @@ I'm an aspiring developer transitioning from electronics to software. Currently 
 
 ### 💻 Technical Skills
 - **Programming Languages**: Python, MATLAB, C, HTML, CSS, JavaScript, SQL
-- **Libraries and Frameworks**: Python - numpy, pandas, matplotlib, seaborn, sklearn, tkinter, pygame; JavaScript - Node.js, Mocha, React; CSS - Bootstrap
-- **Tools and Databases**: git, AWS, Azure, Docker, Kubernetes, PostgreSQL, MongoDB
+- **Libraries and Frameworks**: Python - streamlit, numpy, pandas, matplotlib, seaborn, sklearn, tkinter; JavaScript - Node.js, Mocha, React, Express; CSS - Bootstrap, Tailwind
+- **Tools and Databases**: git, copilot, AWS, Azure, Docker, Kubernetes, PostgreSQL, MongoDB
 
 ### Current Status
 - 🔭 I’m currently working on AWS cloud projects
