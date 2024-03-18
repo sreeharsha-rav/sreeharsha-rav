@@ -8,7 +8,14 @@ I'm an aspiring developer transitioning from electronics to software, having rec
 
 ### 💻 Technical Skills
 - **Programming Languages**: Java, Python, Javascript, Typescript, SQL, NoSQL, HTML, CSS
-- **Libraries and Frameworks**: Java - spring, springboot, hibernate, JDBC, spring security; Python - streamlit, numpy, pandas, matplotlib, seaborn, sklearn, tkinter; JavaScript - Node.js, Mocha, React, Express; Typescript - Angular; SQL - MySQL, PostgreSQL, sqlite; NoSQL - DynamoDB, MongoDB; CSS - Bootstrap, Tailwind
+- **Libraries and Frameworks**:
+  - Java - spring, springboot, hibernate, JDBC, spring security
+  - Python - streamlit, numpy, pandas, matplotlib, seaborn, sklearn, tkinter
+  - JavaScript - Node.js, Mocha, React, Express
+  - Typescript - Angular
+  - SQL - MySQL, PostgreSQL, sqlite
+  - NoSQL - DynamoDB, MongoDB
+  - CSS - Bootstrap, Tailwind
 - **Tools and Databases**: git, copilot, postman, AWS(EC2, SQS, Lambda, ECR, DyanmoDB, S3), Docker, Kubernetes
 
 ### Current Status
