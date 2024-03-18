@@ -7,9 +7,9 @@ I'm an aspiring developer transitioning from electronics to software, having rec
 ![Sreeharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeharsha-rav&show_icons=true&theme=transparent)
 
 ### 💻 Technical Skills
-- **Programming Languages**: Python, JavaScript, Java, C, HTML, CSS, SQL
-- **Libraries and Frameworks**: Python - streamlit, numpy, pandas, matplotlib, seaborn, sklearn, tkinter; JavaScript - Node.js, Mocha, React, Express; Java - Spring, Springboot; CSS - Bootstrap, Tailwind
-- **Tools and Databases**: git, copilot, AWS(EC2, SQS, Lambda, ECR, DyanmoDB, S3), Docker, Kubernetes, PostgreSQL, SQLite, MongoDB
+- **Programming Languages**: Java, Python, Javascript, Typescript, SQL, NoSQL, HTML, CSS
+- **Libraries and Frameworks**: Java - spring, springboot, hibernate, JDBC, spring security; Python - streamlit, numpy, pandas, matplotlib, seaborn, sklearn, tkinter; JavaScript - Node.js, Mocha, React, Express; Typescript - Angular; SQL - MySQL, PostgreSQL, sqlite; NoSQL - DynamoDB, MongoDB; CSS - Bootstrap, Tailwind
+- **Tools and Databases**: git, copilot, postman, AWS(EC2, SQS, Lambda, ECR, DyanmoDB, S3), Docker, Kubernetes
 
 ### Current Status
 - 🌱 I’m currently learning Full-Stack Development
