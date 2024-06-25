@@ -7,19 +7,22 @@ I'm an aspiring developer transitioning from electronics to software, having rec
 ![Sreeharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeharsha-rav&show_icons=true&theme=transparent)
 
 ### 💻 Technical Skills
-- **Programming Languages**: Java, Python, Javascript, Typescript, SQL, NoSQL, HTML, CSS
-- **Libraries and Frameworks**:
-  - Java - spring, springboot, hibernate, JDBC, spring security
+- **Programming Languages**: Java, Typescript, Python, Javascript, SQL, NoSQL, HTML, CSS
+- **Tools, Libraries and Frameworks**:
+  - Java - spring, springboot, JDBC, spring security
   - Python - streamlit, numpy, pandas, matplotlib, seaborn, sklearn, tkinter
-  - JavaScript - Node.js, Mocha, React, Express
-  - Typescript - Angular
-  - SQL - MySQL, PostgreSQL, sqlite
-  - NoSQL - DynamoDB, MongoDB
+  - JavaScript - Node.js, Mocha, React, Express, Fastify
+  - Typescript - Angular, Next.js
+  - ORM - Prisma, Hibernate, Sequelize
   - CSS - Bootstrap, Tailwind
-- **Tools and Databases**: git, copilot, postman, AWS(EC2, SQS, Lambda, ECR, DyanmoDB, S3), Docker, Kubernetes
+  - Microservices - Spring Cloud, Eureka, Zuul, Docker, Kubernetes
+  - Databases - SQL (MySQL, Postgres, SQLite), NoSQL (MongoDB, DynamoDB)
+  - Cloud - AWS (S3, SQS, EC2, Lambda, ECR, DynamoDB, Redshift), Azure (SQL Server, VM, Databricks)
+  - Other: git, copilot, postman
 
 ### Current Status
-- 🌱 I’m currently learning Full-Stack Development
+- 🌱 I’m currently learning and developing as a Full-Stack Developer
+- I'm interested in delving deeper into microservices and back-end engineering
 <!--
 **Sreeharsha98/Sreeharsha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
