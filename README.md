@@ -21,8 +21,9 @@ I'm an aspiring developer transitioning from electronics to software, having rec
   - Other: git, copilot, postman
 
 ### Current Status
-- 🌱 I’m currently learning and developing as a Full-Stack Developer
-- I'm interested in delving deeper into microservices and back-end engineering
+- 🌱 I’m currently learning Full-Stack Development
+- 🤔 I’m looking for help with microservices
+- 👯 I’m looking to collaborate on Open Source contributions
 <!--
 **Sreeharsha98/Sreeharsha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
