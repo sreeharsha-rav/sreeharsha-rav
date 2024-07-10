@@ -9,7 +9,7 @@ I'm an aspiring developer transitioning from electronics to software, having rec
 ### 💻 Technical Skills
 - **Programming Languages**: Java, Typescript, Python, Javascript, SQL, NoSQL, HTML, CSS
 - **Tools, Libraries and Frameworks**:
-  - Java - spring, springboot, JDBC, spring security
+  - Java - spring, springboot, JDBC, R2DBC, spring webflux
   - Python - streamlit, numpy, pandas, matplotlib, seaborn, sklearn, tkinter
   - JavaScript - Node.js, Mocha, React, Express, Fastify
   - Typescript - Angular, Next.js
@@ -24,6 +24,7 @@ I'm an aspiring developer transitioning from electronics to software, having rec
 - 🌱 I’m currently learning Full-Stack Development
 - 🤔 I’m looking for help with microservices
 - 👯 I’m looking to collaborate on Open Source contributions
+- 🔭 I’m currently working on developing reactive APIs using Spring Webflux
 <!--
 **Sreeharsha98/Sreeharsha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
