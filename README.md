@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile! 😁
-I'm an aspiring developer transitioning from electronics to software, having recently graduated with a master's degree in computer engineering from Arizona State University. Currently employed at EPICS @ ASU, I volunteer to contribute to projects addressing community and industry-based problems. Excited to learn, build, and contribute towards innovative software solutions.
+I'm a software developer transitioned from electronics. Currently employed at Alltech as a Full-Stack developer and volunteering at EPICS Pro @ ASU. I volunteer to contribute to projects addressing community and industry-based problems. Excited to learn, build, and contribute towards innovative software solutions.
 
 <!-- Check out my repositories to see some of my latest projects. -->
 
