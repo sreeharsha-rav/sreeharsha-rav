@@ -7,24 +7,12 @@ I'm an aspiring developer transitioning from electronics to software, having rec
 ![Sreeharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeharsha-rav&show_icons=true&theme=transparent)
 
 ### 💻 Technical Skills
-- **Programming Languages**: Java, Typescript, Python, Javascript, SQL, NoSQL, HTML, CSS
-- **Tools, Libraries and Frameworks**:
-  - Java - spring, springboot, JDBC, R2DBC, spring webflux
-  - Python - streamlit, numpy, pandas, matplotlib, seaborn, sklearn, tkinter
-  - JavaScript - Node.js, Mocha, React, Express, Fastify
-  - Typescript - Angular, Next.js
-  - ORM - Prisma, Hibernate, Sequelize
-  - CSS - Bootstrap, Tailwind
-  - Microservices - Spring Cloud, Eureka, Zuul, Docker, Kubernetes
-  - Databases - SQL (MySQL, Postgres, SQLite), NoSQL (MongoDB, DynamoDB)
-  - Cloud - AWS (S3, SQS, EC2, Lambda, ECR, DynamoDB, Redshift), Azure (SQL Server, VM, Databricks)
-  - Other: git, copilot, postman
+- **Programming Languages**: Java, Typescript, Python, Javascript, SQL, HTML, CSS
 
 ### Current Status
 - 🌱 I’m currently learning Full-Stack Development
-- 🤔 I’m looking for help with microservices
 - 👯 I’m looking to collaborate on Open Source contributions
-- 🔭 I’m currently working on developing reactive APIs using Spring Webflux
+- 🔭 I’m currently working on developing an AI application with Hume EVI
 <!--
 **Sreeharsha98/Sreeharsha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
