@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile! 😁
-I'm a software developer transitioned from electronics. Currently employed at Alltech as a Full-Stack developer and volunteering at EPICS Pro @ ASU. I volunteer to contribute to projects addressing community and industry-based problems. Excited to learn, build, and contribute towards innovative software solutions.
+I'm a software developer transitioned from electronics. Currently employed at Spurtree Technologies as a Generalist Software Engineer and volunteering. Excited to learn, build, and contribute towards innovative software solutions.
 
 <!-- Check out my repositories to see some of my latest projects. -->
 
@@ -7,12 +7,12 @@ I'm a software developer transitioned from electronics. Currently employed at Al
 ![Sreeharsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeharsha-rav&show_icons=true&theme=transparent)
 
 ### 💻 Technical Skills
-- **Programming Languages**: Java, Typescript, Python, Javascript, SQL, HTML, CSS
+- **Programming Languages**: Python, JavaScript, TypeScript, Java, HTML, CSS, SQL
 
 ### Current Status
 - 🌱 I’m currently learning Full-Stack Development with AI
 - 👯 I’m looking to collaborate on Open Source contributions
-- 🔭 I’m currently working on developing an AI applications with Next.js
+- 🔭 I’m currently working on developing a smart personal logger
 <!--
 **Sreeharsha98/Sreeharsha98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
